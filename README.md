@@ -16,6 +16,21 @@ I am passionate about solving problems and teaching. Always looking for new chal
  
   ##
   
+   <div>
+  
+### 👨🏼‍🏫 Certifications:
+- Corporate Venture Summit
+- UX/UI Design: descubra tudo
+sobre a área do design que mais cresce
+- IBM - Descomplicando a IA
+- Ferramentas de Web Semantica
+- Como o LGPD está mudando as nossas vidas
+- Desenvolvimento Profissional e Equilíbrio Pessoal
+  
+</div>
+
+##
+
   ## My main knowledge technologies.
   
   <div>
@@ -34,18 +49,7 @@ I am passionate about solving problems and teaching. Always looking for new chal
   
   ##
   
-  <div>
-  
-### 👨🏼‍🏫 Certifications:
-- Corporate Venture Summit
-- UX/UI Design: descubra tudo
-sobre a área do design que mais cresce
-- IBM - Descomplicando a IA
-- Ferramentas de Web Semantica
-- Como o LGPD está mudando as nossas vidas
-- Desenvolvimento Profissional e Equilíbrio Pessoal
-  
-</div>
+ 
 
 ##
  
