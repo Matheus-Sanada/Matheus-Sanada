@@ -26,6 +26,7 @@ sobre a área do design que mais cresce
 - Ferramentas de Web Semantica
 - Como o LGPD está mudando as nossas vidas
 - Desenvolvimento Profissional e Equilíbrio Pessoal
+- Front-end Start
   
 </div>
 
