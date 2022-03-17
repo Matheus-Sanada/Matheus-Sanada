@@ -9,6 +9,9 @@ I am passionate about solving problems and teaching. Always looking for new chal
 <div align="left">
   <a href="https://github.com/matheus-sanada">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-sanada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sanada&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 </div>
  
   ##
@@ -30,6 +33,21 @@ I am passionate about solving problems and teaching. Always looking for new chal
   </div>
   
   ##
+  
+  <div>
+  
+### 👨🏼‍🏫 Certifications:
+- Corporate Venture Summit
+- UX/UI Design: descubra tudo
+sobre a área do design que mais cresce
+- IBM - Descomplicando a IA
+- Ferramentas de Web Semantica
+- Como o LGPD está mudando as nossas vidas
+- Desenvolvimento Profissional e Equilíbrio Pessoal
+  
+</div>
+
+##
  
 <div> 
   <a href="https://instagram.com/fcknsanada" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
