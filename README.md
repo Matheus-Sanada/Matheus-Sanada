@@ -1,5 +1,8 @@
 # Hi 👋
 
+<img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+
 My name is Matheus Sanada
 
 I'm a Development Analyst, working as a Front-End developer since 2020. 💻
@@ -50,6 +53,16 @@ sobre a área do design que mais cresce
   
   ##
   
+  <div>
+  
+  ## Development Tools
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=FFFF)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  
+  </div>
  
 
 ##
