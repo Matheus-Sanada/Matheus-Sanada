@@ -14,6 +14,8 @@ I am passionate about solving problems and teaching. Always looking for new chal
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-sanada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sanada&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<a href="http://www.github.com/Matheus-Sanada"><img src="https://activity-graph.herokuapp.com/graph?username=Matheus-Sanada&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 </div>
  
