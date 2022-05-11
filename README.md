@@ -44,11 +44,13 @@ sobre a área do design que mais cresce
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![SaSS](https://img.shields.io/badge/-SaSS-05122A?style=flat&logo=SaSS)&nbsp;
-  ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=Bulma)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+  ![Npm](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=Npm)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+  ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
   
